@@ -1,9 +1,16 @@
-.country{
+.country {
     border: 1px solid lightblue;
     border-radius: 10px;
     margin: 12px;
     padding: 12px;
 }
-.country img{
+
+.country img {
     width: 200px;
+    height: 150px;
+}
+
+.visited{
+    background-color: bisque;
+    color: black;
 }

@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <h2>React Countries of the  world</h2>
+      {/* <h2>React Countries of the  world</h2> */}
       <Countries></Countries>
     </>
   )
